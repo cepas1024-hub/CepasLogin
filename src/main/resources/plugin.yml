@@ -1,0 +1,6 @@
+name: CepasLogin
+version: 1.0.0
+main: me.cepas.login.CepasLogin
+api-version: '1.21'
+author: CEPAS
+depend: [Floodgate]
